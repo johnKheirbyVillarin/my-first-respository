@@ -1,1 +1,2 @@
-# my-first-repository.git
+# my-first-repository
+
